@@ -1,3 +1,3 @@
 # JustDoit
-first android app
-built with basic listview
+Motivation application.
+You can download by searching JustDoit on android market.
